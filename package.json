@@ -1,0 +1,14 @@
+{
+  "name": "smashkbclass",
+  "version": "1.0.0",
+  "description": "Calculates knockback and maybe other things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
